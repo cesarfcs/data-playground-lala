@@ -1,0 +1,301 @@
+Campagne,Nom de l'entreprise,Prénom,Nom,Intitulé du poste,E-mail,Numéro de téléphone,Phase du cycle de vie,Last used Aircall tags,lemlist lead status,Nombre de prises de contact,Secteur d'activité,Date d'activité
+Avignon,Entreprise 000,Alex,Martin,Expert-comptable,user0@exemple.com,+33 6 51466808,Prospect,No answer,Interested,3,BTP,2025-08-07
+Annecy,Entreprise 001,Thomas,Petit,DG,user1@exemple.com,+33 6 41454868,Prospect,No answer,Email replied,2,Tech,2025-07-03
+Avignon,Entreprise 002,Thomas,Robert,DAF,user2@exemple.com,+33 6 31037914,Bon contact,No answer,Email opened,2,Tech,2025-07-05
+Chambéry,Entreprise 003,Alex,Durand,DAF,user3@exemple.com,+33 6 42921979,Refus,No answer,Bounced,3,Services,2025-07-02
+Nîmes,Entreprise 004,Hugo,Dupont,DG,user4@exemple.com,+33 6 18593682,Prospect,No answer,Email sent,2,Services,2025-07-30
+Annecy,Entreprise 005,Sofia,Petit,DRH,user5@exemple.com,+33 6 92616188,Prospect,Meeting,Interested,1,Industrie,2025-07-13
+Aix-en-Pce,Entreprise 006,Thomas,Bernard,Expert-comptable,user6@exemple.com,+33 6 83538783,Bon contact,No answer,Email opened,1,Services,2025-07-31
+Avignon,Entreprise 007,Hugo,Robert,DRH,user7@exemple.com,+33 6 79125864,Prospect,No answer,Interested,3,Industrie,2025-07-17
+Chambéry,Entreprise 008,Marie,Petit,DAF,user8@exemple.com,+33 6 48094648,Prospect,No answer,Email sent,2,Services,2025-07-28
+Nîmes,Entreprise 009,Alex,Durand,Associé,user9@exemple.com,+33 6 27083274,Prospect,No answer,Bounced,1,Finance,2025-07-25
+Chambéry,Entreprise 010,Cynthia,Dupont,DG,user10@exemple.com,+33 6 93677922,Refus,Callback,Email opened,2,Tech,2025-08-02
+Annecy,Entreprise 011,Thomas,Bernard,Expert-comptable,user11@exemple.com,+33 6 72711870,Bon contact,Pitch,Interested,2,Services,2025-07-24
+Aix-en-Pce,Entreprise 012,Hugo,Robert,Associé,user12@exemple.com,+33 6 47730192,Refus,Meeting,Email sent,1,Industrie,2025-07-05
+Nîmes,Entreprise 013,Cynthia,Robert,DAF,user13@exemple.com,+33 6 47218330,RDV planifié,Pitch,Bounced,2,Tech,2025-06-28
+Annecy,Entreprise 014,Alex,Petit,Associé,user14@exemple.com,+33 6 79375559,Prospect,Pitch,Email replied,1,Finance,2025-07-07
+Aix-en-Pce,Entreprise 015,Hugo,Robert,DAF,user15@exemple.com,+33 6 61102068,Prospect,Pitch,Email sent,1,Services,2025-07-02
+Chambéry,Entreprise 016,Thomas,Robert,Expert-comptable,user16@exemple.com,+33 6 40951158,Bon contact,Pitch,Email opened,2,Finance,2025-07-11
+Annecy,Entreprise 017,Sofia,Petit,DG,user17@exemple.com,+33 6 78207320,Prospect,Pitch,Email replied,1,Finance,2025-06-23
+Nîmes,Entreprise 018,Thomas,Durand,Expert-comptable,user18@exemple.com,+33 6 18229077,Prospect,Connected,Email sent,2,Tech,2025-06-22
+Annecy,Entreprise 019,Alex,Martin,Expert-comptable,user19@exemple.com,+33 6 27059413,Bon contact,No answer,Email sent,3,Services,2025-07-15
+Avignon,Entreprise 020,Thomas,Petit,DRH,user20@exemple.com,+33 6 15665543,RDV planifié,Pitch,Interested,3,Services,2025-07-30
+Nîmes,Entreprise 021,Hugo,Petit,DAF,user21@exemple.com,+33 6 84903239,Prospect,Callback,Bounced,1,Tech,2025-08-02
+Annecy,Entreprise 022,Cynthia,Dupont,Office manager,user22@exemple.com,+33 6 53661196,RDV planifié,Meeting,Email sent,1,Tech,2025-07-24
+Avignon,Entreprise 023,Thomas,Dupont,DRH,user23@exemple.com,+33 6 64593461,Prospect,Callback,Interested,3,BTP,2025-07-18
+Nîmes,Entreprise 024,Thomas,Petit,Associé,user24@exemple.com,+33 6 16454050,Prospect,Meeting,Bounced,2,Industrie,2025-06-23
+Aix-en-Pce,Entreprise 025,Marie,Robert,DRH,user25@exemple.com,+33 6 82088309,Prospect,Callback,Bounced,1,BTP,2025-06-24
+Nîmes,Entreprise 026,Thomas,Petit,Office manager,user26@exemple.com,+33 6 84447997,Bon contact,Connected,Interested,2,Industrie,2025-06-12
+Aix-en-Pce,Entreprise 027,Cynthia,Petit,DAF,user27@exemple.com,+33 6 99386469,RDV planifié,Pitch,Interested,3,Services,2025-06-26
+Chambéry,Entreprise 028,Alex,Durand,Office manager,user28@exemple.com,+33 6 29640790,Refus,No answer,Bounced,3,Services,2025-07-19
+Avignon,Entreprise 029,Cynthia,Bernard,Office manager,user29@exemple.com,+33 6 36932415,Bon contact,Callback,Bounced,2,Finance,2025-06-18
+Avignon,Entreprise 030,Marie,Durand,DAF,user30@exemple.com,+33 6 18252898,Refus,Connected,Bounced,3,Tech,2025-06-29
+Nîmes,Entreprise 031,Hugo,Martin,Expert-comptable,user31@exemple.com,+33 6 27481406,RDV planifié,Pitch,Email opened,3,Finance,2025-06-15
+Aix-en-Pce,Entreprise 032,Cynthia,Martin,DRH,user32@exemple.com,+33 6 86638694,Bon contact,Connected,Interested,3,Services,2025-06-30
+Aix-en-Pce,Entreprise 033,Thomas,Robert,DRH,user33@exemple.com,+33 6 66248560,Refus,Connected,Email sent,1,Tech,2025-07-17
+Annecy,Entreprise 034,Sofia,Dupont,Associé,user34@exemple.com,+33 6 74750994,RDV planifié,No answer,Email opened,1,BTP,2025-06-23
+Aix-en-Pce,Entreprise 035,Cynthia,Bernard,DG,user35@exemple.com,+33 6 45035901,RDV planifié,No answer,Email replied,1,Finance,2025-08-06
+Aix-en-Pce,Entreprise 036,Hugo,Bernard,DAF,user36@exemple.com,+33 6 17590661,Refus,Pitch,Email opened,3,Finance,2025-07-19
+Nîmes,Entreprise 037,Cynthia,Durand,DG,user37@exemple.com,+33 6 58584275,Bon contact,Pitch,Interested,3,Services,2025-07-02
+Annecy,Entreprise 038,Alex,Martin,Expert-comptable,user38@exemple.com,+33 6 61422816,Prospect,Connected,Bounced,1,BTP,2025-08-03
+Nîmes,Entreprise 039,Hugo,Durand,Office manager,user39@exemple.com,+33 6 62037149,Prospect,No answer,Email replied,1,BTP,2025-06-14
+Annecy,Entreprise 040,Marie,Martin,Office manager,user40@exemple.com,+33 6 51249646,Prospect,Callback,Bounced,2,Finance,2025-07-29
+Annecy,Entreprise 041,Sofia,Bernard,DRH,user41@exemple.com,+33 6 48503105,Refus,Callback,Interested,1,Finance,2025-08-01
+Avignon,Entreprise 042,Alex,Dupont,DG,user42@exemple.com,+33 6 46009977,Refus,Connected,Email sent,1,Tech,2025-07-25
+Avignon,Entreprise 043,Alex,Robert,DG,user43@exemple.com,+33 6 68384644,Prospect,No answer,Bounced,3,BTP,2025-08-01
+Aix-en-Pce,Entreprise 044,Hugo,Robert,Associé,user44@exemple.com,+33 6 97582973,Prospect,Callback,Email replied,3,Tech,2025-07-11
+Aix-en-Pce,Entreprise 045,Hugo,Martin,Office manager,user45@exemple.com,+33 6 68541878,Bon contact,Connected,Interested,2,Finance,2025-07-28
+Annecy,Entreprise 046,Thomas,Martin,DAF,user46@exemple.com,+33 6 61408436,Prospect,No answer,Email sent,3,Services,2025-08-07
+Nîmes,Entreprise 047,Sofia,Durand,DRH,user47@exemple.com,+33 6 77587121,Bon contact,No answer,Interested,1,Services,2025-07-10
+Avignon,Entreprise 048,Hugo,Robert,DG,user48@exemple.com,+33 6 43462952,Refus,No answer,Email replied,3,Finance,2025-06-11
+Chambéry,Entreprise 049,Alex,Dupont,Expert-comptable,user49@exemple.com,+33 6 86233624,Prospect,Connected,Interested,3,Industrie,2025-08-01
+Chambéry,Entreprise 050,Sofia,Bernard,DAF,user50@exemple.com,+33 6 54688050,Refus,Connected,Bounced,1,Finance,2025-07-31
+Annecy,Entreprise 051,Marie,Dupont,Expert-comptable,user51@exemple.com,+33 6 38882195,Bon contact,Callback,Email replied,2,BTP,2025-07-21
+Avignon,Entreprise 052,Cynthia,Robert,Expert-comptable,user52@exemple.com,+33 6 64744755,Prospect,Callback,Bounced,1,Services,2025-07-23
+Nîmes,Entreprise 053,Marie,Durand,DG,user53@exemple.com,+33 6 19954883,Bon contact,No answer,Email opened,3,Services,2025-06-11
+Avignon,Entreprise 054,Sofia,Dupont,DAF,user54@exemple.com,+33 6 70789100,Prospect,Pitch,Bounced,1,Services,2025-07-24
+Annecy,Entreprise 055,Hugo,Petit,Associé,user55@exemple.com,+33 6 45401985,Bon contact,Connected,Bounced,2,BTP,2025-08-04
+Nîmes,Entreprise 056,Thomas,Dupont,DRH,user56@exemple.com,+33 6 95455925,Bon contact,Meeting,Email opened,1,Finance,2025-08-06
+Aix-en-Pce,Entreprise 057,Thomas,Bernard,Expert-comptable,user57@exemple.com,+33 6 35624966,Refus,Connected,Email replied,1,Tech,2025-07-23
+Aix-en-Pce,Entreprise 058,Marie,Petit,Office manager,user58@exemple.com,+33 6 77256625,Bon contact,Meeting,Email sent,2,Finance,2025-07-13
+Nîmes,Entreprise 059,Marie,Petit,DRH,user59@exemple.com,+33 6 31399529,Bon contact,Meeting,Email opened,2,Finance,2025-07-12
+Aix-en-Pce,Entreprise 060,Cynthia,Bernard,DRH,user60@exemple.com,+33 6 35087385,Bon contact,Connected,Interested,3,Services,2025-07-16
+Avignon,Entreprise 061,Marie,Martin,Associé,user61@exemple.com,+33 6 81758077,Refus,Meeting,Bounced,2,BTP,2025-07-09
+Chambéry,Entreprise 062,Alex,Petit,DRH,user62@exemple.com,+33 6 80185935,RDV planifié,No answer,Email sent,2,Finance,2025-08-08
+Aix-en-Pce,Entreprise 063,Sofia,Petit,Office manager,user63@exemple.com,+33 6 24320852,Refus,Connected,Interested,3,Services,2025-07-19
+Nîmes,Entreprise 064,Cynthia,Bernard,Expert-comptable,user64@exemple.com,+33 6 50110932,Refus,No answer,Bounced,2,BTP,2025-07-12
+Nîmes,Entreprise 065,Thomas,Dupont,DRH,user65@exemple.com,+33 6 10848217,RDV planifié,No answer,Email sent,2,BTP,2025-07-08
+Nîmes,Entreprise 066,Thomas,Martin,Office manager,user66@exemple.com,+33 6 83498608,RDV planifié,No answer,Bounced,2,Tech,2025-06-12
+Avignon,Entreprise 067,Cynthia,Petit,Associé,user67@exemple.com,+33 6 50826093,Refus,Connected,Email replied,3,Tech,2025-07-14
+Annecy,Entreprise 068,Thomas,Durand,Office manager,user68@exemple.com,+33 6 27480466,Refus,Callback,Email opened,2,BTP,2025-06-23
+Avignon,Entreprise 069,Hugo,Durand,Associé,user69@exemple.com,+33 6 24662770,RDV planifié,Pitch,Interested,2,BTP,2025-08-02
+Chambéry,Entreprise 070,Marie,Bernard,Expert-comptable,user70@exemple.com,+33 6 41076321,Prospect,Connected,Bounced,3,Tech,2025-06-20
+Avignon,Entreprise 071,Hugo,Petit,Associé,user71@exemple.com,+33 6 95251768,Bon contact,Connected,Bounced,2,Tech,2025-08-05
+Avignon,Entreprise 072,Cynthia,Dupont,DG,user72@exemple.com,+33 6 55674158,Bon contact,Meeting,Interested,2,BTP,2025-07-07
+Annecy,Entreprise 073,Thomas,Petit,Office manager,user73@exemple.com,+33 6 63271086,Prospect,Pitch,Email opened,1,Finance,2025-08-08
+Chambéry,Entreprise 074,Marie,Robert,Associé,user74@exemple.com,+33 6 94658311,Refus,Callback,Bounced,2,Finance,2025-06-11
+Aix-en-Pce,Entreprise 075,Marie,Dupont,DAF,user75@exemple.com,+33 6 18498081,RDV planifié,Pitch,Email replied,3,Industrie,2025-06-19
+Annecy,Entreprise 076,Hugo,Robert,Associé,user76@exemple.com,+33 6 17127492,RDV planifié,Meeting,Email opened,1,Finance,2025-07-03
+Nîmes,Entreprise 077,Sofia,Martin,DAF,user77@exemple.com,+33 6 54100950,Bon contact,Connected,Email sent,1,Services,2025-08-02
+Annecy,Entreprise 078,Thomas,Martin,Office manager,user78@exemple.com,+33 6 26194448,Bon contact,Meeting,Bounced,2,BTP,2025-06-18
+Avignon,Entreprise 079,Sofia,Robert,Associé,user79@exemple.com,+33 6 54611501,Bon contact,No answer,Email sent,2,Finance,2025-06-16
+Avignon,Entreprise 000,Sofia,Martin,Expert-comptable,user80@exemple.com,+33 6 52568488,Refus,Callback,Email replied,1,BTP,2025-07-18
+Chambéry,Entreprise 001,Hugo,Bernard,DG,user81@exemple.com,+33 6 49965087,Prospect,Connected,Email opened,2,BTP,2025-07-15
+Avignon,Entreprise 002,Hugo,Petit,Expert-comptable,user82@exemple.com,+33 6 74005884,Bon contact,No answer,Email sent,1,Finance,2025-06-13
+Annecy,Entreprise 003,Sofia,Robert,DG,user83@exemple.com,+33 6 60823833,Prospect,Meeting,Email opened,1,Services,2025-06-23
+Chambéry,Entreprise 004,Alex,Dupont,Office manager,user84@exemple.com,+33 6 80320975,Bon contact,Callback,Email opened,1,Services,2025-07-07
+Annecy,Entreprise 005,Marie,Bernard,Expert-comptable,user85@exemple.com,+33 6 17756159,Refus,Connected,Interested,3,Industrie,2025-06-21
+Chambéry,Entreprise 006,Alex,Dupont,Associé,user86@exemple.com,+33 6 19516142,Bon contact,Meeting,Email sent,3,Finance,2025-08-05
+Nîmes,Entreprise 007,Alex,Dupont,Associé,user87@exemple.com,+33 6 90180881,Prospect,Callback,Interested,1,BTP,2025-07-20
+Aix-en-Pce,Entreprise 008,Sofia,Petit,Associé,user88@exemple.com,+33 6 74963154,Prospect,No answer,Email sent,1,Finance,2025-06-20
+Annecy,Entreprise 009,Marie,Robert,Office manager,user89@exemple.com,+33 6 38470236,Refus,Pitch,Email opened,1,Industrie,2025-06-24
+Avignon,Entreprise 010,Cynthia,Durand,Associé,user90@exemple.com,+33 6 49818232,RDV planifié,Connected,Bounced,2,Tech,2025-06-16
+Avignon,Entreprise 011,Marie,Robert,DAF,user91@exemple.com,+33 6 43251972,Bon contact,No answer,Email sent,2,Industrie,2025-06-27
+Avignon,Entreprise 012,Cynthia,Durand,Associé,user92@exemple.com,+33 6 23598718,Prospect,Meeting,Email replied,3,BTP,2025-07-14
+Avignon,Entreprise 013,Hugo,Bernard,DAF,user93@exemple.com,+33 6 82247451,RDV planifié,Pitch,Email opened,3,BTP,2025-07-15
+Annecy,Entreprise 014,Hugo,Petit,Office manager,user94@exemple.com,+33 6 76776306,Refus,No answer,Email opened,2,BTP,2025-07-15
+Aix-en-Pce,Entreprise 015,Sofia,Durand,Associé,user95@exemple.com,+33 6 37148813,Prospect,Meeting,Interested,1,Services,2025-06-15
+Aix-en-Pce,Entreprise 016,Alex,Dupont,DG,user96@exemple.com,+33 6 72023489,Bon contact,Pitch,Bounced,3,Services,2025-06-19
+Avignon,Entreprise 017,Sofia,Dupont,DRH,user97@exemple.com,+33 6 11257686,Bon contact,Meeting,Bounced,2,Services,2025-07-12
+Annecy,Entreprise 018,Thomas,Dupont,DRH,user98@exemple.com,+33 6 96554102,RDV planifié,Meeting,Interested,3,Finance,2025-08-04
+Avignon,Entreprise 019,Thomas,Bernard,DAF,user99@exemple.com,+33 6 42082423,Bon contact,Pitch,Interested,3,Tech,2025-07-04
+Aix-en-Pce,Entreprise 020,Hugo,Bernard,DG,user100@exemple.com,+33 6 75064051,Bon contact,Pitch,Email sent,2,Tech,2025-06-23
+Nîmes,Entreprise 021,Marie,Martin,Office manager,user101@exemple.com,+33 6 72486537,Refus,No answer,Interested,3,Services,2025-07-31
+Aix-en-Pce,Entreprise 022,Thomas,Martin,DAF,user102@exemple.com,+33 6 24785906,RDV planifié,Callback,Email opened,1,BTP,2025-07-07
+Annecy,Entreprise 023,Sofia,Durand,DG,user103@exemple.com,+33 6 78107302,RDV planifié,Callback,Interested,3,Finance,2025-07-30
+Aix-en-Pce,Entreprise 024,Cynthia,Martin,DG,user104@exemple.com,+33 6 95874119,RDV planifié,Callback,Email sent,1,Tech,2025-07-12
+Avignon,Entreprise 025,Cynthia,Bernard,Expert-comptable,user105@exemple.com,+33 6 61022075,Bon contact,Pitch,Email replied,3,Finance,2025-07-24
+Nîmes,Entreprise 026,Marie,Durand,DRH,user106@exemple.com,+33 6 59691060,Refus,Meeting,Bounced,1,Tech,2025-06-14
+Nîmes,Entreprise 027,Hugo,Durand,DG,user107@exemple.com,+33 6 26639522,RDV planifié,Callback,Email sent,1,Services,2025-07-07
+Avignon,Entreprise 028,Marie,Robert,DG,user108@exemple.com,+33 6 19105390,RDV planifié,No answer,Interested,3,Services,2025-06-17
+Nîmes,Entreprise 029,Cynthia,Petit,DG,user109@exemple.com,+33 6 11914301,RDV planifié,Callback,Email sent,2,BTP,2025-06-15
+Chambéry,Entreprise 030,Cynthia,Martin,DG,user110@exemple.com,+33 6 84034600,RDV planifié,No answer,Email replied,1,Tech,2025-08-08
+Avignon,Entreprise 031,Thomas,Dupont,Office manager,user111@exemple.com,+33 6 74332453,Refus,Connected,Email replied,3,Tech,2025-06-28
+Aix-en-Pce,Entreprise 032,Cynthia,Petit,Associé,user112@exemple.com,+33 6 11075047,Bon contact,No answer,Email replied,3,Tech,2025-06-27
+Avignon,Entreprise 033,Cynthia,Petit,Associé,user113@exemple.com,+33 6 91970138,Bon contact,Callback,Email replied,2,Industrie,2025-08-08
+Avignon,Entreprise 034,Thomas,Durand,DAF,user114@exemple.com,+33 6 93097547,RDV planifié,Meeting,Bounced,2,Tech,2025-07-11
+Annecy,Entreprise 035,Thomas,Martin,Office manager,user115@exemple.com,+33 6 61936730,RDV planifié,Callback,Interested,3,Industrie,2025-07-13
+Aix-en-Pce,Entreprise 036,Alex,Dupont,Expert-comptable,user116@exemple.com,+33 6 35363070,Refus,Meeting,Email sent,3,BTP,2025-07-30
+Nîmes,Entreprise 037,Thomas,Dupont,Expert-comptable,user117@exemple.com,+33 6 20462507,Refus,Connected,Email replied,2,Tech,2025-07-06
+Nîmes,Entreprise 038,Cynthia,Durand,DAF,user118@exemple.com,+33 6 38916276,RDV planifié,No answer,Email opened,3,BTP,2025-06-29
+Avignon,Entreprise 039,Marie,Durand,Office manager,user119@exemple.com,+33 6 21485990,Prospect,No answer,Email replied,1,Industrie,2025-06-30
+Aix-en-Pce,Entreprise 040,Hugo,Martin,Office manager,user120@exemple.com,+33 6 73577145,RDV planifié,Meeting,Interested,1,Services,2025-08-06
+Aix-en-Pce,Entreprise 041,Cynthia,Dupont,DG,user121@exemple.com,+33 6 28570425,RDV planifié,No answer,Interested,2,Finance,2025-08-09
+Avignon,Entreprise 042,Hugo,Petit,Expert-comptable,user122@exemple.com,+33 6 96355808,RDV planifié,Callback,Interested,3,Finance,2025-07-22
+Nîmes,Entreprise 043,Sofia,Bernard,DRH,user123@exemple.com,+33 6 53926447,Prospect,Connected,Email sent,2,Finance,2025-07-22
+Chambéry,Entreprise 044,Thomas,Dupont,DG,user124@exemple.com,+33 6 38520834,Prospect,No answer,Email replied,2,Services,2025-07-19
+Nîmes,Entreprise 045,Cynthia,Dupont,Expert-comptable,user125@exemple.com,+33 6 22200735,Refus,No answer,Bounced,1,Tech,2025-07-04
+Chambéry,Entreprise 046,Thomas,Durand,DG,user126@exemple.com,+33 6 63796012,RDV planifié,No answer,Email sent,2,Services,2025-07-22
+Aix-en-Pce,Entreprise 047,Cynthia,Bernard,DRH,user127@exemple.com,+33 6 67248540,Bon contact,Connected,Email sent,2,Services,2025-06-21
+Aix-en-Pce,Entreprise 048,Cynthia,Martin,DRH,user128@exemple.com,+33 6 42900514,Refus,No answer,Email sent,1,Finance,2025-08-03
+Nîmes,Entreprise 049,Alex,Bernard,Expert-comptable,user129@exemple.com,+33 6 77533143,RDV planifié,Pitch,Bounced,2,BTP,2025-07-07
+Nîmes,Entreprise 050,Alex,Bernard,Associé,user130@exemple.com,+33 6 73465657,RDV planifié,Pitch,Interested,2,Finance,2025-07-05
+Aix-en-Pce,Entreprise 051,Thomas,Durand,Expert-comptable,user131@exemple.com,+33 6 69822633,Refus,Meeting,Email opened,1,BTP,2025-06-17
+Chambéry,Entreprise 052,Thomas,Martin,DAF,user132@exemple.com,+33 6 22930557,Bon contact,Callback,Email opened,1,BTP,2025-07-09
+Nîmes,Entreprise 053,Thomas,Bernard,DRH,user133@exemple.com,+33 6 72971306,RDV planifié,Meeting,Email sent,2,Industrie,2025-06-14
+Avignon,Entreprise 054,Marie,Dupont,DRH,user134@exemple.com,+33 6 96309681,RDV planifié,Connected,Interested,1,Finance,2025-06-25
+Aix-en-Pce,Entreprise 055,Thomas,Durand,DAF,user135@exemple.com,+33 6 56349652,Refus,No answer,Email opened,1,BTP,2025-07-30
+Avignon,Entreprise 056,Sofia,Bernard,DRH,user136@exemple.com,+33 6 46902608,RDV planifié,Pitch,Bounced,1,Industrie,2025-07-28
+Annecy,Entreprise 057,Cynthia,Robert,DG,user137@exemple.com,+33 6 16936843,RDV planifié,Meeting,Email opened,1,Services,2025-07-14
+Chambéry,Entreprise 058,Hugo,Martin,Office manager,user138@exemple.com,+33 6 79163502,Prospect,Pitch,Interested,3,Tech,2025-08-05
+Aix-en-Pce,Entreprise 059,Hugo,Robert,DAF,user139@exemple.com,+33 6 77139455,RDV planifié,No answer,Email sent,1,Finance,2025-07-08
+Avignon,Entreprise 060,Thomas,Durand,DG,user140@exemple.com,+33 6 86734512,Refus,No answer,Interested,1,BTP,2025-06-24
+Nîmes,Entreprise 061,Cynthia,Petit,DAF,user141@exemple.com,+33 6 51894873,RDV planifié,Connected,Email opened,2,Services,2025-07-18
+Avignon,Entreprise 062,Marie,Dupont,Associé,user142@exemple.com,+33 6 12651801,Prospect,Connected,Bounced,1,Tech,2025-07-15
+Avignon,Entreprise 063,Thomas,Martin,Expert-comptable,user143@exemple.com,+33 6 20466637,Prospect,Pitch,Email replied,2,Industrie,2025-07-21
+Nîmes,Entreprise 064,Hugo,Martin,Office manager,user144@exemple.com,+33 6 62457835,RDV planifié,Callback,Email opened,1,Services,2025-07-08
+Aix-en-Pce,Entreprise 065,Marie,Dupont,Associé,user145@exemple.com,+33 6 31197124,RDV planifié,Pitch,Email opened,2,Industrie,2025-07-27
+Aix-en-Pce,Entreprise 066,Sofia,Dupont,DAF,user146@exemple.com,+33 6 98933415,Refus,No answer,Email opened,3,Industrie,2025-07-31
+Nîmes,Entreprise 067,Marie,Martin,Expert-comptable,user147@exemple.com,+33 6 27835557,Prospect,No answer,Email opened,1,Tech,2025-06-27
+Aix-en-Pce,Entreprise 068,Thomas,Martin,Expert-comptable,user148@exemple.com,+33 6 51090314,Prospect,Meeting,Bounced,3,Tech,2025-08-07
+Chambéry,Entreprise 069,Cynthia,Dupont,Associé,user149@exemple.com,+33 6 57255031,RDV planifié,No answer,Email opened,2,Services,2025-06-30
+Annecy,Entreprise 070,Hugo,Bernard,DRH,user150@exemple.com,+33 6 69506452,Prospect,Meeting,Email sent,2,Finance,2025-07-13
+Avignon,Entreprise 071,Hugo,Martin,Expert-comptable,user151@exemple.com,+33 6 63154754,Prospect,Pitch,Bounced,2,BTP,2025-07-09
+Aix-en-Pce,Entreprise 072,Marie,Robert,Expert-comptable,user152@exemple.com,+33 6 40187308,Prospect,Meeting,Email opened,1,Finance,2025-06-21
+Avignon,Entreprise 073,Marie,Durand,Associé,user153@exemple.com,+33 6 13548900,Refus,Connected,Bounced,3,BTP,2025-06-12
+Chambéry,Entreprise 074,Sofia,Bernard,Office manager,user154@exemple.com,+33 6 24374432,Refus,Connected,Interested,1,Services,2025-06-30
+Annecy,Entreprise 075,Cynthia,Dupont,Associé,user155@exemple.com,+33 6 58345709,RDV planifié,Connected,Email opened,3,Tech,2025-07-19
+Nîmes,Entreprise 076,Thomas,Bernard,DAF,user156@exemple.com,+33 6 44416765,Refus,Callback,Email sent,2,Services,2025-06-28
+Chambéry,Entreprise 077,Hugo,Petit,DRH,user157@exemple.com,+33 6 20356441,Bon contact,Connected,Email replied,2,Tech,2025-07-27
+Avignon,Entreprise 078,Marie,Durand,Expert-comptable,user158@exemple.com,+33 6 63740255,RDV planifié,Connected,Email sent,2,Finance,2025-07-24
+Chambéry,Entreprise 079,Hugo,Martin,DG,user159@exemple.com,+33 6 83353481,Prospect,Meeting,Email replied,3,Services,2025-08-01
+Nîmes,Entreprise 000,Sofia,Petit,Expert-comptable,user160@exemple.com,+33 6 31717748,Bon contact,Pitch,Email replied,3,Industrie,2025-06-24
+Annecy,Entreprise 001,Sofia,Martin,DAF,user161@exemple.com,+33 6 91237078,Prospect,No answer,Interested,3,BTP,2025-06-30
+Annecy,Entreprise 002,Sofia,Dupont,DG,user162@exemple.com,+33 6 15204699,RDV planifié,Pitch,Email opened,1,BTP,2025-08-04
+Chambéry,Entreprise 003,Marie,Petit,Associé,user163@exemple.com,+33 6 51578714,RDV planifié,Connected,Email opened,3,BTP,2025-06-12
+Aix-en-Pce,Entreprise 004,Marie,Dupont,DAF,user164@exemple.com,+33 6 15324751,Prospect,Callback,Email replied,3,BTP,2025-08-05
+Annecy,Entreprise 005,Alex,Petit,Associé,user165@exemple.com,+33 6 27367767,Prospect,Meeting,Email opened,1,Services,2025-06-14
+Aix-en-Pce,Entreprise 006,Marie,Martin,DRH,user166@exemple.com,+33 6 28790437,RDV planifié,Callback,Email opened,2,Tech,2025-08-09
+Chambéry,Entreprise 007,Cynthia,Dupont,Office manager,user167@exemple.com,+33 6 73544731,Prospect,Callback,Bounced,1,BTP,2025-08-03
+Aix-en-Pce,Entreprise 008,Marie,Durand,Associé,user168@exemple.com,+33 6 83113349,Bon contact,Pitch,Email opened,3,BTP,2025-07-25
+Nîmes,Entreprise 009,Thomas,Robert,DG,user169@exemple.com,+33 6 84634703,Refus,Pitch,Interested,3,Finance,2025-07-24
+Aix-en-Pce,Entreprise 010,Marie,Durand,Associé,user170@exemple.com,+33 6 35060293,Refus,Callback,Email opened,3,Services,2025-06-29
+Chambéry,Entreprise 011,Thomas,Dupont,DRH,user171@exemple.com,+33 6 41495750,Prospect,Pitch,Bounced,3,BTP,2025-07-11
+Chambéry,Entreprise 012,Hugo,Dupont,Office manager,user172@exemple.com,+33 6 43197198,Refus,Pitch,Interested,3,Industrie,2025-07-27
+Annecy,Entreprise 013,Hugo,Durand,DG,user173@exemple.com,+33 6 43358160,Bon contact,Meeting,Interested,2,Finance,2025-07-18
+Annecy,Entreprise 014,Cynthia,Dupont,Office manager,user174@exemple.com,+33 6 81678712,Bon contact,No answer,Email replied,1,BTP,2025-08-05
+Annecy,Entreprise 015,Thomas,Robert,DRH,user175@exemple.com,+33 6 23374747,RDV planifié,Pitch,Email replied,2,BTP,2025-07-24
+Avignon,Entreprise 016,Sofia,Dupont,Associé,user176@exemple.com,+33 6 19258225,Prospect,No answer,Email replied,1,BTP,2025-06-24
+Aix-en-Pce,Entreprise 017,Cynthia,Robert,DG,user177@exemple.com,+33 6 12609904,Bon contact,No answer,Bounced,2,Services,2025-06-25
+Nîmes,Entreprise 018,Cynthia,Petit,DRH,user178@exemple.com,+33 6 99465262,Bon contact,Meeting,Email sent,1,Tech,2025-07-31
+Aix-en-Pce,Entreprise 019,Alex,Bernard,Associé,user179@exemple.com,+33 6 53073187,Bon contact,Meeting,Bounced,1,Finance,2025-07-26
+Chambéry,Entreprise 020,Hugo,Dupont,Expert-comptable,user180@exemple.com,+33 6 91222637,Bon contact,Pitch,Bounced,3,BTP,2025-06-25
+Aix-en-Pce,Entreprise 021,Cynthia,Robert,DRH,user181@exemple.com,+33 6 18372813,RDV planifié,Meeting,Email replied,2,Tech,2025-06-21
+Avignon,Entreprise 022,Hugo,Martin,Expert-comptable,user182@exemple.com,+33 6 31004334,Prospect,Callback,Email sent,3,Industrie,2025-06-29
+Chambéry,Entreprise 023,Marie,Martin,DG,user183@exemple.com,+33 6 89198244,Bon contact,No answer,Email replied,1,Industrie,2025-06-14
+Nîmes,Entreprise 024,Thomas,Martin,DG,user184@exemple.com,+33 6 91322852,Prospect,No answer,Bounced,1,Industrie,2025-07-16
+Avignon,Entreprise 025,Thomas,Robert,Associé,user185@exemple.com,+33 6 31825026,Prospect,Callback,Bounced,3,Industrie,2025-07-31
+Aix-en-Pce,Entreprise 026,Marie,Robert,DAF,user186@exemple.com,+33 6 11042049,Prospect,Pitch,Bounced,2,Industrie,2025-06-18
+Aix-en-Pce,Entreprise 027,Thomas,Martin,DG,user187@exemple.com,+33 6 30618261,Prospect,Callback,Email sent,3,BTP,2025-07-05
+Annecy,Entreprise 028,Thomas,Martin,Associé,user188@exemple.com,+33 6 57982525,Refus,No answer,Email opened,1,Services,2025-07-07
+Avignon,Entreprise 029,Sofia,Dupont,Expert-comptable,user189@exemple.com,+33 6 44646436,RDV planifié,No answer,Interested,3,Services,2025-06-15
+Avignon,Entreprise 030,Cynthia,Bernard,Expert-comptable,user190@exemple.com,+33 6 67536100,RDV planifié,Callback,Interested,2,Finance,2025-06-25
+Aix-en-Pce,Entreprise 031,Cynthia,Petit,Office manager,user191@exemple.com,+33 6 68093848,RDV planifié,Meeting,Bounced,3,Industrie,2025-07-12
+Avignon,Entreprise 032,Alex,Petit,Associé,user192@exemple.com,+33 6 41779874,Refus,Meeting,Email replied,2,BTP,2025-08-05
+Aix-en-Pce,Entreprise 033,Marie,Robert,Expert-comptable,user193@exemple.com,+33 6 83063945,Bon contact,No answer,Email replied,1,BTP,2025-08-05
+Chambéry,Entreprise 034,Alex,Dupont,Associé,user194@exemple.com,+33 6 19865923,Refus,Meeting,Email sent,2,Tech,2025-07-14
+Avignon,Entreprise 035,Cynthia,Martin,DAF,user195@exemple.com,+33 6 19635900,RDV planifié,Connected,Bounced,3,BTP,2025-08-04
+Chambéry,Entreprise 036,Marie,Durand,Associé,user196@exemple.com,+33 6 14947348,Refus,No answer,Email opened,1,Finance,2025-07-04
+Nîmes,Entreprise 037,Marie,Durand,Expert-comptable,user197@exemple.com,+33 6 48036907,RDV planifié,Connected,Interested,2,Industrie,2025-07-12
+Avignon,Entreprise 038,Sofia,Durand,DRH,user198@exemple.com,+33 6 99957698,Bon contact,No answer,Email replied,1,Services,2025-07-14
+Aix-en-Pce,Entreprise 039,Hugo,Robert,Office manager,user199@exemple.com,+33 6 98471057,Refus,Callback,Email sent,2,Industrie,2025-07-26
+Aix-en-Pce,Entreprise 040,Marie,Robert,Office manager,user200@exemple.com,+33 6 82120859,Bon contact,Connected,Email sent,3,Tech,2025-08-09
+Avignon,Entreprise 041,Alex,Durand,Expert-comptable,user201@exemple.com,+33 6 49169038,Bon contact,Connected,Email opened,2,BTP,2025-08-02
+Avignon,Entreprise 042,Alex,Bernard,DG,user202@exemple.com,+33 6 34298105,Prospect,Connected,Email sent,2,Services,2025-07-07
+Nîmes,Entreprise 043,Marie,Petit,Office manager,user203@exemple.com,+33 6 27621765,Bon contact,Connected,Interested,3,Tech,2025-06-16
+Chambéry,Entreprise 044,Thomas,Martin,DG,user204@exemple.com,+33 6 21386401,Refus,Connected,Email sent,1,Industrie,2025-07-12
+Nîmes,Entreprise 045,Marie,Bernard,DRH,user205@exemple.com,+33 6 46880395,Prospect,Pitch,Email replied,2,Tech,2025-07-14
+Aix-en-Pce,Entreprise 046,Marie,Robert,Office manager,user206@exemple.com,+33 6 55016125,Prospect,No answer,Email opened,2,Industrie,2025-06-26
+Avignon,Entreprise 047,Hugo,Petit,Associé,user207@exemple.com,+33 6 46049182,Prospect,No answer,Email replied,3,Services,2025-07-25
+Chambéry,Entreprise 048,Sofia,Bernard,Expert-comptable,user208@exemple.com,+33 6 40817478,RDV planifié,No answer,Interested,2,Industrie,2025-06-18
+Nîmes,Entreprise 049,Marie,Bernard,DAF,user209@exemple.com,+33 6 29323359,Prospect,No answer,Email opened,1,Industrie,2025-08-09
+Avignon,Entreprise 050,Thomas,Petit,Expert-comptable,user210@exemple.com,+33 6 35208683,Bon contact,Callback,Email replied,3,Tech,2025-07-22
+Nîmes,Entreprise 051,Cynthia,Bernard,DAF,user211@exemple.com,+33 6 81829230,RDV planifié,No answer,Bounced,2,Services,2025-07-14
+Annecy,Entreprise 052,Cynthia,Bernard,Expert-comptable,user212@exemple.com,+33 6 99461423,Prospect,No answer,Interested,2,Industrie,2025-08-02
+Nîmes,Entreprise 053,Hugo,Petit,Associé,user213@exemple.com,+33 6 60847641,Bon contact,Meeting,Email opened,1,Tech,2025-07-16
+Avignon,Entreprise 054,Alex,Bernard,Associé,user214@exemple.com,+33 6 38301059,Bon contact,Pitch,Email sent,1,BTP,2025-06-14
+Chambéry,Entreprise 055,Alex,Durand,DAF,user215@exemple.com,+33 6 96550454,Refus,No answer,Email opened,2,Services,2025-06-30
+Nîmes,Entreprise 056,Marie,Martin,Associé,user216@exemple.com,+33 6 49351291,Prospect,Meeting,Email opened,1,Services,2025-07-12
+Nîmes,Entreprise 057,Sofia,Durand,DRH,user217@exemple.com,+33 6 44961233,RDV planifié,Callback,Interested,1,Finance,2025-07-13
+Nîmes,Entreprise 058,Alex,Robert,DG,user218@exemple.com,+33 6 38940268,Refus,No answer,Bounced,3,Services,2025-07-29
+Avignon,Entreprise 059,Sofia,Petit,DAF,user219@exemple.com,+33 6 79344837,Bon contact,Meeting,Bounced,3,Tech,2025-08-08
+Aix-en-Pce,Entreprise 060,Thomas,Robert,Associé,user220@exemple.com,+33 6 11878948,Bon contact,Meeting,Interested,3,BTP,2025-08-05
+Nîmes,Entreprise 061,Hugo,Bernard,DG,user221@exemple.com,+33 6 90107301,Refus,Callback,Email replied,1,BTP,2025-07-06
+Avignon,Entreprise 062,Thomas,Martin,Associé,user222@exemple.com,+33 6 90292235,Refus,Connected,Email replied,2,Finance,2025-06-13
+Chambéry,Entreprise 063,Thomas,Bernard,Office manager,user223@exemple.com,+33 6 91747437,Refus,Connected,Email sent,3,Finance,2025-06-29
+Annecy,Entreprise 064,Cynthia,Dupont,Expert-comptable,user224@exemple.com,+33 6 30441919,Bon contact,Callback,Interested,2,Industrie,2025-07-21
+Aix-en-Pce,Entreprise 065,Alex,Durand,Office manager,user225@exemple.com,+33 6 22274971,Refus,Connected,Email opened,2,Services,2025-06-25
+Avignon,Entreprise 066,Hugo,Martin,DG,user226@exemple.com,+33 6 38683878,Bon contact,Callback,Bounced,2,BTP,2025-07-19
+Avignon,Entreprise 067,Alex,Petit,Associé,user227@exemple.com,+33 6 32182700,Prospect,Connected,Email sent,3,Services,2025-06-24
+Chambéry,Entreprise 068,Cynthia,Dupont,DAF,user228@exemple.com,+33 6 24509546,RDV planifié,Pitch,Email opened,2,Tech,2025-07-07
+Avignon,Entreprise 069,Hugo,Bernard,Expert-comptable,user229@exemple.com,+33 6 54314364,RDV planifié,Pitch,Email opened,2,Tech,2025-07-22
+Chambéry,Entreprise 070,Marie,Bernard,Associé,user230@exemple.com,+33 6 31388959,Refus,Pitch,Interested,3,Tech,2025-07-04
+Annecy,Entreprise 071,Alex,Bernard,Expert-comptable,user231@exemple.com,+33 6 67108067,RDV planifié,Meeting,Interested,1,Services,2025-07-29
+Annecy,Entreprise 072,Marie,Petit,Office manager,user232@exemple.com,+33 6 87164974,Bon contact,No answer,Interested,2,Finance,2025-07-16
+Aix-en-Pce,Entreprise 073,Thomas,Petit,Expert-comptable,user233@exemple.com,+33 6 41408543,RDV planifié,No answer,Email opened,1,BTP,2025-07-21
+Chambéry,Entreprise 074,Hugo,Dupont,Associé,user234@exemple.com,+33 6 84392595,Bon contact,Pitch,Email opened,3,BTP,2025-07-22
+Nîmes,Entreprise 075,Sofia,Martin,DAF,user235@exemple.com,+33 6 40753989,Prospect,Meeting,Email sent,2,Industrie,2025-07-30
+Nîmes,Entreprise 076,Thomas,Petit,Expert-comptable,user236@exemple.com,+33 6 57898979,Refus,Connected,Bounced,2,Tech,2025-07-14
+Aix-en-Pce,Entreprise 077,Cynthia,Robert,DG,user237@exemple.com,+33 6 10104958,RDV planifié,Meeting,Email replied,2,Industrie,2025-07-09
+Chambéry,Entreprise 078,Alex,Dupont,DG,user238@exemple.com,+33 6 80787932,Refus,Callback,Email opened,1,Tech,2025-07-29
+Aix-en-Pce,Entreprise 079,Cynthia,Robert,DG,user239@exemple.com,+33 6 54750448,Prospect,Pitch,Email replied,2,BTP,2025-07-20
+Aix-en-Pce,Entreprise 000,Cynthia,Robert,DRH,user240@exemple.com,+33 6 25080928,Refus,Connected,Email sent,2,BTP,2025-06-19
+Aix-en-Pce,Entreprise 001,Cynthia,Petit,DRH,user241@exemple.com,+33 6 21489885,Refus,Meeting,Email replied,2,BTP,2025-06-14
+Avignon,Entreprise 002,Alex,Petit,Associé,user242@exemple.com,+33 6 80441302,Prospect,Callback,Bounced,2,Tech,2025-08-08
+Annecy,Entreprise 003,Sofia,Petit,DAF,user243@exemple.com,+33 6 58381911,Prospect,Callback,Email replied,2,Tech,2025-08-04
+Nîmes,Entreprise 004,Cynthia,Bernard,Office manager,user244@exemple.com,+33 6 75055220,Prospect,Pitch,Email opened,1,Industrie,2025-07-26
+Avignon,Entreprise 005,Alex,Petit,DRH,user245@exemple.com,+33 6 96991130,Refus,No answer,Email replied,3,Services,2025-06-20
+Aix-en-Pce,Entreprise 006,Alex,Bernard,DG,user246@exemple.com,+33 6 46277108,Refus,No answer,Email sent,2,BTP,2025-08-04
+Avignon,Entreprise 007,Marie,Dupont,Office manager,user247@exemple.com,+33 6 71871043,Prospect,No answer,Email opened,3,Industrie,2025-08-06
+Aix-en-Pce,Entreprise 008,Alex,Robert,DRH,user248@exemple.com,+33 6 25460366,RDV planifié,Callback,Email replied,2,Services,2025-06-16
+Annecy,Entreprise 009,Cynthia,Durand,Associé,user249@exemple.com,+33 6 16055273,Prospect,Meeting,Email sent,1,Tech,2025-07-02
+Nîmes,Entreprise 010,Sofia,Bernard,DRH,user250@exemple.com,+33 6 95962762,Prospect,Callback,Bounced,3,Industrie,2025-06-11
+Avignon,Entreprise 011,Hugo,Petit,DRH,user251@exemple.com,+33 6 20117995,Refus,Callback,Email sent,2,Services,2025-07-23
+Chambéry,Entreprise 012,Hugo,Bernard,Associé,user252@exemple.com,+33 6 67409726,Bon contact,Meeting,Interested,1,BTP,2025-08-03
+Chambéry,Entreprise 013,Marie,Dupont,Office manager,user253@exemple.com,+33 6 74665140,RDV planifié,Callback,Email opened,2,Tech,2025-07-27
+Avignon,Entreprise 014,Thomas,Dupont,DRH,user254@exemple.com,+33 6 32206088,Prospect,No answer,Interested,3,Tech,2025-07-15
+Avignon,Entreprise 015,Cynthia,Martin,Associé,user255@exemple.com,+33 6 31789557,RDV planifié,Connected,Email opened,3,Services,2025-07-29
+Chambéry,Entreprise 016,Marie,Bernard,DG,user256@exemple.com,+33 6 52032650,Bon contact,Meeting,Email sent,1,BTP,2025-07-18
+Chambéry,Entreprise 017,Sofia,Durand,DG,user257@exemple.com,+33 6 88419607,Prospect,Connected,Email replied,1,Finance,2025-08-06
+Nîmes,Entreprise 018,Hugo,Dupont,Expert-comptable,user258@exemple.com,+33 6 93758660,RDV planifié,Meeting,Email replied,1,Industrie,2025-06-25
+Avignon,Entreprise 019,Marie,Robert,DAF,user259@exemple.com,+33 6 26297366,RDV planifié,Pitch,Email sent,2,Tech,2025-06-30
+Annecy,Entreprise 020,Hugo,Robert,Associé,user260@exemple.com,+33 6 71381781,Bon contact,Pitch,Interested,1,Tech,2025-07-22
+Annecy,Entreprise 021,Sofia,Bernard,DAF,user261@exemple.com,+33 6 49379961,Prospect,No answer,Email sent,1,Finance,2025-07-08
+Aix-en-Pce,Entreprise 022,Hugo,Robert,DRH,user262@exemple.com,+33 6 88895187,RDV planifié,Pitch,Email opened,2,BTP,2025-07-24
+Aix-en-Pce,Entreprise 023,Alex,Martin,DG,user263@exemple.com,+33 6 74193181,Bon contact,Connected,Interested,1,Tech,2025-06-29
+Nîmes,Entreprise 024,Alex,Martin,Expert-comptable,user264@exemple.com,+33 6 95116790,Bon contact,Meeting,Interested,3,Industrie,2025-07-16
+Chambéry,Entreprise 025,Alex,Robert,DG,user265@exemple.com,+33 6 46655088,Refus,Pitch,Email opened,2,Tech,2025-08-09
+Nîmes,Entreprise 026,Alex,Petit,DRH,user266@exemple.com,+33 6 27632071,Refus,Pitch,Bounced,3,BTP,2025-07-04
+Avignon,Entreprise 027,Hugo,Petit,DAF,user267@exemple.com,+33 6 69786395,RDV planifié,No answer,Email sent,3,Services,2025-07-13
+Nîmes,Entreprise 028,Marie,Martin,Expert-comptable,user268@exemple.com,+33 6 97461721,Prospect,Callback,Email opened,2,Industrie,2025-06-15
+Nîmes,Entreprise 029,Thomas,Dupont,Office manager,user269@exemple.com,+33 6 18084750,Bon contact,Connected,Email opened,3,Industrie,2025-07-17
+Chambéry,Entreprise 030,Cynthia,Petit,Office manager,user270@exemple.com,+33 6 87308792,Prospect,No answer,Email replied,1,BTP,2025-06-19
+Chambéry,Entreprise 031,Marie,Durand,Office manager,user271@exemple.com,+33 6 64439777,Bon contact,No answer,Bounced,1,Tech,2025-06-16
+Nîmes,Entreprise 032,Alex,Robert,DG,user272@exemple.com,+33 6 63201490,RDV planifié,Callback,Email sent,2,Industrie,2025-08-09
+Aix-en-Pce,Entreprise 033,Alex,Robert,Associé,user273@exemple.com,+33 6 14813096,Refus,Pitch,Email sent,2,Industrie,2025-07-07
+Avignon,Entreprise 034,Cynthia,Dupont,Expert-comptable,user274@exemple.com,+33 6 81999887,Bon contact,Meeting,Email opened,1,Finance,2025-08-03
+Annecy,Entreprise 035,Hugo,Martin,Expert-comptable,user275@exemple.com,+33 6 10661261,Prospect,Pitch,Email sent,1,Tech,2025-06-12
+Aix-en-Pce,Entreprise 036,Marie,Martin,Expert-comptable,user276@exemple.com,+33 6 33001708,Prospect,Pitch,Email opened,1,Industrie,2025-07-17
+Aix-en-Pce,Entreprise 037,Marie,Petit,Office manager,user277@exemple.com,+33 6 52959538,Refus,No answer,Bounced,1,Tech,2025-07-07
+Avignon,Entreprise 038,Thomas,Dupont,Expert-comptable,user278@exemple.com,+33 6 28032954,RDV planifié,Pitch,Interested,3,Services,2025-07-24
+Annecy,Entreprise 039,Hugo,Bernard,DAF,user279@exemple.com,+33 6 86698374,Prospect,Meeting,Email sent,2,Services,2025-07-20
+Avignon,Entreprise 040,Hugo,Durand,DRH,user280@exemple.com,+33 6 62290585,Bon contact,No answer,Email sent,2,Industrie,2025-07-21
+Aix-en-Pce,Entreprise 041,Alex,Dupont,Office manager,user281@exemple.com,+33 6 99401406,Refus,No answer,Email replied,2,Industrie,2025-06-22
+Nîmes,Entreprise 042,Alex,Petit,Expert-comptable,user282@exemple.com,+33 6 73550371,RDV planifié,Meeting,Email opened,1,Industrie,2025-06-17
+Chambéry,Entreprise 043,Marie,Durand,DG,user283@exemple.com,+33 6 65745393,Refus,Pitch,Bounced,1,Tech,2025-07-24
+Avignon,Entreprise 044,Sofia,Martin,Associé,user284@exemple.com,+33 6 10248181,RDV planifié,Meeting,Email sent,2,Industrie,2025-07-31
+Chambéry,Entreprise 045,Marie,Robert,DG,user285@exemple.com,+33 6 56695623,Refus,Pitch,Email sent,3,Finance,2025-06-20
+Annecy,Entreprise 046,Hugo,Petit,DAF,user286@exemple.com,+33 6 87011630,Bon contact,Meeting,Bounced,3,Services,2025-07-14
+Chambéry,Entreprise 047,Marie,Dupont,Office manager,user287@exemple.com,+33 6 35610371,Bon contact,Pitch,Email replied,3,BTP,2025-06-14
+Aix-en-Pce,Entreprise 048,Cynthia,Martin,DRH,user288@exemple.com,+33 6 58392924,Bon contact,No answer,Interested,2,Industrie,2025-07-20
+Chambéry,Entreprise 049,Thomas,Durand,DAF,user289@exemple.com,+33 6 87039524,Refus,Pitch,Email opened,3,BTP,2025-08-09
+Aix-en-Pce,Entreprise 050,Marie,Martin,DRH,user290@exemple.com,+33 6 64876580,Prospect,Pitch,Email sent,2,Tech,2025-07-23
+Chambéry,Entreprise 051,Thomas,Dupont,Office manager,user291@exemple.com,+33 6 10334249,Prospect,Connected,Email replied,3,BTP,2025-07-05
+Chambéry,Entreprise 052,Hugo,Robert,DAF,user292@exemple.com,+33 6 27369085,Prospect,Connected,Bounced,2,Tech,2025-07-22
+Avignon,Entreprise 053,Thomas,Bernard,DG,user293@exemple.com,+33 6 58083110,RDV planifié,No answer,Email opened,1,Services,2025-08-07
+Annecy,Entreprise 054,Cynthia,Robert,Expert-comptable,user294@exemple.com,+33 6 77849612,Refus,Pitch,Email replied,2,Tech,2025-07-24
+Chambéry,Entreprise 055,Cynthia,Petit,Office manager,user295@exemple.com,+33 6 35221212,Bon contact,No answer,Email sent,2,Finance,2025-07-24
+Avignon,Entreprise 056,Cynthia,Martin,DRH,user296@exemple.com,+33 6 87598947,Bon contact,Connected,Email sent,3,Services,2025-06-29
+Aix-en-Pce,Entreprise 057,Sofia,Robert,DG,user297@exemple.com,+33 6 65484592,Refus,Meeting,Email opened,1,Tech,2025-08-09
+Chambéry,Entreprise 058,Thomas,Durand,Associé,user298@exemple.com,+33 6 85240048,Bon contact,No answer,Bounced,3,Tech,2025-07-31
+Nîmes,Entreprise 059,Hugo,Bernard,DAF,user299@exemple.com,+33 6 62417146,Prospect,Callback,Email opened,1,Finance,2025-06-16
